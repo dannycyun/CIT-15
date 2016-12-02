@@ -1,0 +1,40 @@
+html, body, div {
+}
+
+header {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: gold;
+  font-family: sans-serif;
+}
+
+li {
+  display: inline;
+}
+
+h1{
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: ivory;
+  width: 100%
+  padding: 25px;
+  border:
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  border: 10px ridge gold;
+  margin: 0 auto;
+}
+
+p{
+  font-family: serif;
+  max-width: 100%;
+}
